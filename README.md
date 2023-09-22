@@ -1,5 +1,7 @@
-# Cálculo de frete
+# API RESTful Cálculo de frete
 Projeto para praticar programação assíncrona e API REST no backend. Simula o cálculo de frete de uma loja de eletrônicos.
+## Tecnologias utilizadas
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express)](https://skillicons.dev)
 ## Como instalar
 Após baixar o conteúdo desse repositório para sua máquina, use o comando *npm install* para fazer o download de todas as dependências necessárias para esse projeto.
 ```ruby
